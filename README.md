@@ -1,5 +1,3 @@
-# ml_finance
-
 # Machine Learning for Finance 🧠📈
 
 This repository contains a collection of Python and R modules exploring advanced topics in **quantitative finance**, including volatility modelling, causal networks, options pricing, price forecasting, and algorithmic trading strategies.
